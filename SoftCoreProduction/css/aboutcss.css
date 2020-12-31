@@ -1,0 +1,20 @@
+#box-search img{
+	height: 400px;
+	width: 100%;
+	filter: brightness(20%);
+	position: relative;
+}
+
+.thumbnail {
+    position: relative;
+    margin-bottom: 0;
+    border: 0;
+    border-color: transparent;
+}
+
+.caption {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100%;
+}
